@@ -51,12 +51,11 @@ iTunes API
 ## 📱 Screens
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2289aea2-073e-4fbb-9d01-5b24a614c7f2" width="250"/>
-  <img src="https://github.com/user-attachments/assets/67beb002-e043-4d21-9da0-b36ea9743483" width="250"/>
   <img src="https://github.com/user-attachments/assets/3bbf5ace-3512-41a9-a8ff-e12929c45ca5" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/86b9f832-fe99-44f8-9b73-84a2390a4783" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f6e06bc2-185c-4388-9d76-5af027493cb4" width="250" />
   <img src="https://github.com/user-attachments/assets/bf09b9d1-e307-4977-a867-639ee6eb8e3d" width="250"/>
 </p>
 
